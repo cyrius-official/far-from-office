@@ -553,6 +553,7 @@
                  "height":128,
                  "id":13,
                  "name":"jitsiChillZone",
+                 "type": "area",
                  "properties":[
                         {
                          "name":"focusable",
@@ -587,6 +588,7 @@
                 }, 
                 {
                  "class":"area",
+                 "type": "area",
                  "height":128,
                  "id":14,
                  "name":"silentZone",
@@ -604,6 +606,7 @@
                 }, 
                 {
                  "class":"area",
+                 "type": "area",
                  "height":224,
                  "id":16,
                  "name":"jitsiMeetingRoom",
@@ -641,6 +644,7 @@
                 }, 
                 {
                  "class":"area",
+                 "type": "area",
                  "height":124,
                  "id":17,
                  "name":"excalidraw",
@@ -674,6 +678,7 @@
                 }, 
                 {
                  "class":"area",
+                 "type": "area",
                  "height":411,
                  "id":22,
                  "name":"ConferenceJitsi",
@@ -706,6 +711,7 @@
                 }, 
                 {
                  "class":"area",
+                 "type": "area",
                  "height":121.333333333333,
                  "id":23,
                  "name":"codePairing01",
@@ -738,6 +744,7 @@
                 }, 
                 {
                  "class":"area",
+                 "type": "area",
                  "height":126.666666666667,
                  "id":24,
                  "name":"codePairing02",
@@ -770,6 +777,7 @@
                 }, 
                 {
                  "class":"area",
+                 "type": "area",
                  "height":62,
                  "id":25,
                  "name":"excalidraw2",
@@ -778,11 +786,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/excalidraw.com\/#room=cyrius-cyrius-cyrius-02,8KxB94I8D3QOryUr_EaR3Q"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onAction"
                         }],
                  "rotation":0,
                  "visible":true,
