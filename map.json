@@ -790,7 +790,7 @@
                  "class":"area",
                  "height":153.333333333333,
                  "id":32,
-                 "name":"comexRoom",
+                 "name":"jitsiComexRoom",
                  "properties":[
                         {
                          "name":"focusable",
@@ -798,9 +798,9 @@
                          "value":true
                         }, 
                         {
-                         "name":"jistiRoom",
+                         "name":"jitsiRoom",
                          "type":"string",
-                         "value":"comex"
+                         "value":"ComexRoom"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -810,10 +810,10 @@
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
-                         "value":"onAction"
+                         "value":"onaction"
                         }, 
                         {
-                         "name":"zoomMargin",
+                         "name":"zoom_margin",
                          "type":"float",
                          "value":1
                         }],
